@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/3sigma/static/js/main.18a5746a.chunk.js",
+    "main.js.map": "/3sigma/static/js/main.18a5746a.chunk.js.map",
+    "runtime-main.js": "/3sigma/static/js/runtime-main.e0ced7c4.js",
+    "runtime-main.js.map": "/3sigma/static/js/runtime-main.e0ced7c4.js.map",
+    "static/js/2.7de5fc75.chunk.js": "/3sigma/static/js/2.7de5fc75.chunk.js",
+    "static/js/2.7de5fc75.chunk.js.map": "/3sigma/static/js/2.7de5fc75.chunk.js.map",
+    "index.html": "/3sigma/index.html",
+    "precache-manifest.4cb1e7d3af5babe35d4859e3fc70bcc5.js": "/3sigma/precache-manifest.4cb1e7d3af5babe35d4859e3fc70bcc5.js",
+    "service-worker.js": "/3sigma/service-worker.js",
+    "static/js/2.7de5fc75.chunk.js.LICENSE.txt": "/3sigma/static/js/2.7de5fc75.chunk.js.LICENSE.txt",
+    "static/media/Gilroy-Light.ttf": "/3sigma/static/media/Gilroy-Light.4b236c6c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0ced7c4.js",
+    "static/js/2.7de5fc75.chunk.js",
+    "static/js/main.18a5746a.chunk.js"
+  ]
+}
