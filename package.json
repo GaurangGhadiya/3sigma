@@ -1,6 +1,5 @@
 {
   "name": "threesigma-integration-webpage",
-  "homepage": "https://GaurangGhadiya.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,8 +28,6 @@
     "react-spring-bottom-sheet": "^3.4.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": " react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
